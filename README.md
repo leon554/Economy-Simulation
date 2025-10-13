@@ -1,6 +1,6 @@
 # 🏙️ Economy Simulation
 
-This project simulates a small virtual economy where entities **work**, **manufacture**, **trade**, and **pay taxes**—all in pursuit of a better quality of life. The system is built with an **Entity-Component-System (ECS)** architecture to make behavior extensible and modular.
+This project simulates a small virtual economy where entities **work**, **manufacture**, **trade**, and **pay taxes**, all in pursuit of a better quality of life. The system is built with an **Entity-Component-System (ECS)** architecture to make behavior extensible and modular.
 
 ## 🎯 Overview
 
