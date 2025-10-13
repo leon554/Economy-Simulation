@@ -22,7 +22,7 @@ In this simulation:
 - **Trading Logic**:  
     Buyers choose which resource to buy based on which one will increase their quality of life (QoL) the most, or based on the resources they need to manufacture something new.
 
-    Sellers offer only one resource for sale—the one whose loss will reduce their QoL the least. However, if all of a seller’s resources are of equal quantity, they will not be willing to sell anything that day.
+    Sellers offer only one resource for sale which is the one whose loss will reduce their QoL the least. However, if all of a seller’s resources are of equal quantity, they will not be willing to sell anything that day.
 
 
 - **Taxes**:  
