@@ -1,8 +1,8 @@
-# 🏙️ Economy Simulation
+# Economy Simulation
 
 This project simulates a small virtual economy where entities **work**, **manufacture**, **trade**, and **pay taxes**, all in pursuit of a better quality of life. The system is built with an **Entity-Component-System (ECS)** architecture to make behavior extensible and modular.
 
-## 🎯 Overview
+## Overview
 
 In this simulation:
 - Entities represent economic agents such as individuals and banks.
@@ -14,7 +14,7 @@ In this simulation:
 
 ---
 
-## 🧠 Core Concepts
+## Core Concepts
 
 - **Quality of Life**:  
   `QoL = Σ log(material_quantity + 1)`  
@@ -34,7 +34,7 @@ In this simulation:
 ---
 
 
-## 📸 Screenshots
+## Screenshots
 
 ---
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/727ab389-ceef-4797-9b99-1041b9fade75)
